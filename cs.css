@@ -1,0 +1,29 @@
+textarea{
+    border: 2px blue solid;
+    background: black;
+    color: white;
+}
+body{
+background: black;
+color: white;
+height: 40vh;
+width: 50vw;
+zoom:2;
+}
+
+progress{
+light:2;
+    background: darkred;
+    border: 2px red ridge;
+    border-radius: 10px 10px 10px 10px;
+    animation-fill-mode: forwards;
+}
+details{
+    border: 2px lightpink ridge;
+    width: 90%;
+    border-radius: 10px 10px 10px 10px;
+}
+button{
+    border: 2px lightgray ridge;
+    border-radius: 20px 20px 20px 20px;
+}
